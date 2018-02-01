@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.playtika.aop.metrics.context.ReactiveAspectMetricsAutoConfiguration
