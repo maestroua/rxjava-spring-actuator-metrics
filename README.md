@@ -1,5 +1,5 @@
-# rxjava-spring-actuator-metrics
-Simple library for spring boot actuator to collect method execution statistic. Support rxjava return types.
+# Spring Actuator annotation-based metrics collector with RxJava support
+Simple library for spring boot actuator to collect method execution statistic.
 
 Usage example:
 ```
@@ -30,3 +30,5 @@ With Dropwizard metrics will be gathered:
   "timer.data.getAll.snapshot.median": 58
 }
 ```
+
+<img src="https://travis-ci.org/maestroua/rxjava-spring-actuator-metrics.svg?branch=master">
